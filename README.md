@@ -17,7 +17,7 @@ What are different order status in 2022?
 - Highest selling category?
 - Percentage of Total Orders delivered
 
--Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/sarahf123/Excel-Data-analysis-dashboard-/blob/main/Screenshot%202025-01-31%20215233.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -26,3 +26,5 @@ What are different order status in 2022?
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
   
   ## Dashboard
+  ![Screenshot 2025-01-31 215233](https://github.com/user-attachments/assets/67ee89a3-9177-4f70-bec6-8f26699dcd20)
+
